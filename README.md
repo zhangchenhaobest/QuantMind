@@ -1,3 +1,29 @@
+# QuantMind
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An open-source AI-native multi-market quant platform integrating Qlib, RD-Agent factor evolution and QuantBot, with 300+ factor mining, model workshops, high-performance backtesting and 24/7 monitoring.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 原生多市场量化交易平台开源版，集成 Qlib、RD-Agent 因子演化与 QuantBot 工作台，提供 300+ 维因子挖掘、模型工场、高性能回测与 7×24 实时监控。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 # QuantMind (量化大脑) OSS
